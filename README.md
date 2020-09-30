@@ -1,1 +1,1 @@
-# bert-product-rating-predictor
+# BERT Product Rating Predictor
