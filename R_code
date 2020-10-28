@@ -1,0 +1,46 @@
+library(ggplot2)
+
+setwd("~/ML_Proj")
+df <- read.csv("reviews.csv", TRUE)
+head(df)
+
+
+# Pie Chart of Stars
+# Pie Chart from data frame with Appended Sample Sizes
+mytable <- table(df$stars)
+lbls <- paste(names(mytable), "\n", mytable, sep="")
+pie(mytable, labels = lbls, 
+    main="Pie Chart of Stars\n (with sample sizes)")
+
+hist(df$stars, main="Averages of Stars\n (with sample sizes)", xlab = "Stars", col = "grey")
+
+
+#average star rating
+stars <- df$stars
+print(mean(stars))
+
+x <-as.data.frame(table(stars))
+star_percent <- x$Freq / sum(x$Freq)
+print(star_percent*100)
+print(star_percent)
+
+
+#average helpful rating
+helpful <- df$helpful
+#print(sum(df$helpful == 0)/length(df$helpful))
+print(mean(helpful))
+print(sum(helpful>0))
+print(sum(helpful ==0))
+print(sum(helpful>0)/length(helpful)*100)
+
+#Has Media
+media <- df$has.media
+print(sum(media)/length(media)*100)
+
+#In America or not
+country <- df$country
+print(sum(country)/length(country) * 100)
+
+#Verified
+verified <- df$verified
+print(sum(verified)/length(verified)*100)
