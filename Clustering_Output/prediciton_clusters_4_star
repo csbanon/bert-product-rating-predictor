@@ -1,0 +1,22 @@
+Words in cluster  1
+['not', 'work', 'one', 'sound', 'good']
+[1021, 871, 708, 689, 642]
+
+Words in cluster  2
+['camera', 'cannot', 'whole', 'local', 'ipad']
+[313, 45, 31, 29, 22]
+
+Words in cluster  3
+['month', 'make', 'game', 'problem', 'far']
+[200, 198, 174, 162, 157]
+
+Words in cluster  4
+['great', 'phone', 'bought', 'even', 'device']
+[1056, 443, 336, 241, 239]
+
+Words in cluster  5
+['no', 'would', 'alexa', 'put', 'different']
+[481, 453, 210, 109, 100]
+
+Centers
+['chidoris', 'around', 'cause', 'unlike', 'tell']

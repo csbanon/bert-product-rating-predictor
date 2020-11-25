@@ -1,0 +1,22 @@
+Words in cluster  1
+['not', 'great', 'work', 'one', 'sound']
+[480, 429, 370, 292, 280]
+
+Words in cluster  2
+['speaker', 'better', 'video', 'fine', 'extra']
+[103, 93, 60, 27, 24]
+
+Words in cluster  3
+['would', 'well', 'headphone', 'door', 'channel']
+[188, 187, 98, 86, 71]
+
+Words in cluster  4
+['camera', 'much', 'ear', 'worth', 'stay']
+[139, 117, 94, 56, 28]
+
+Words in cluster  5
+['no', 'price', 'set', 'alexa', 'need']
+[185, 151, 107, 91, 88]
+
+Centers
+['devil', 'connect', 'wifi', 'product', 'spent']

@@ -1,0 +1,22 @@
+Words in cluster  1
+['not', 'great', 'work', 'sound', 'one']
+[293, 224, 206, 168, 163]
+
+Words in cluster  2
+['well', 'would', 'headphone', 'better', 'video']
+[126, 109, 83, 56, 48]
+
+Words in cluster  3
+['much', 'worth', 'streaming', 'cannot', 'stay']
+[67, 26, 16, 11, 10]
+
+Words in cluster  4
+['speaker', 'camera', 'ear', 'laptop', 'fine']
+[102, 65, 64, 30, 29]
+
+Words in cluster  5
+['no', 'product', 'price', 'set', 'make']
+[114, 99, 87, 57, 57]
+
+Centers
+['glued', 'gaming', 'device', 'without', 'noticed']
