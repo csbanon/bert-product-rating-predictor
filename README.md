@@ -9,7 +9,7 @@
 
 ## Description
 
-The *BERT Product Rating Predictor* is a natural language processing model based on the *Bidirectional Encoder Representations from Transformers (BERT)* model developed to predict star ratings for textual product reviews. It was created by fine-tuning the BERT model, training it with a custom dataset containing 195,765 reviews gathered from Amazon’s electronic products section. From this model, a $k$-means clustering model was then employed to explore interesting relationships between the predicted star ratings and their associated reviews.
+The *BERT Product Rating Predictor* is a natural language processing model based on the *Bidirectional Encoder Representations from Transformers (BERT)* model developed to predict star ratings for textual product reviews. It was created by fine-tuning the BERT model, training it with a custom dataset containing 195,765 reviews gathered from Amazon’s electronic products section. From this model, a *k*-means clustering model was then employed to explore interesting relationships between the predicted star ratings and their associated reviews.
 
 This model was then used as part of a research project titled *Using the BERT Model to Predict and Analyze Product Ratings Based on Reviews*.
 
