@@ -13,6 +13,14 @@ The *BERT Product Rating Predictor* is a natural language processing model based
 
 This model was then used as part of a research project titled *Using the BERT Model to Predict and Analyze Product Ratings Based on Reviews*.
 
+### Team Members
+
+- Alexander Roustai
+- Jin Koay
+- David Wecke
+- Ankita Tripathi
+- Carlos Santiago Bañón
+
 ## Build Instructions
 
 1. Download the `bert-product-rating-predictor.ipynb` Jupyter notebook.
